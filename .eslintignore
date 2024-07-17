@@ -1,0 +1,8 @@
+node_modules
+lib
+dist
+coverage
+goodlook11/lib/**
+goodlook11/endtoend/*/build
+examples/svelte-example/public/build/
+bundle-legacy.js
